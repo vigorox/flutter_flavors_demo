@@ -1,5 +1,5 @@
 # flutter_flavors_demo
-An demo to show how to create Flutter white label apps
+An demo to show how to create Flutter white label apps by flavors
 
 ## Flavors
 * Check ***base_app** and **ext_app*** folders
